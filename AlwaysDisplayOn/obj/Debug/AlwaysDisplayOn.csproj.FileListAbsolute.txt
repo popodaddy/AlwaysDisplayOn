@@ -1,0 +1,14 @@
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\bin\Debug\AlwaysDisplayOn.exe.config
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\bin\Debug\AlwaysDisplayOn.exe
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\bin\Debug\AlwaysDisplayOn.pdb
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.csprojAssemblyReference.cache
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\MainWindow.g.cs
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\App.g.cs
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn_MarkupCompile.cache
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn_MarkupCompile.lref
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\MainWindow.baml
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.g.resources
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.Properties.Resources.resources
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.csproj.GenerateResource.cache
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.exe
+C:\Users\CSH\Desktop\Study\AlwaysDisplayOn\AlwaysDisplayOn\AlwaysDisplayOn\obj\Debug\AlwaysDisplayOn.pdb

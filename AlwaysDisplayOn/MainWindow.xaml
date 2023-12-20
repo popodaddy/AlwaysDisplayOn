@@ -1,0 +1,29 @@
+﻿<Window x:Class="AlwaysDisplayOn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlwaysDisplayOn"
+        mc:Ignorable="d"
+        Title="AlwaysDisplayOn" Height="110" Width="300" WindowStartupLocation="Manual" Topmost="True">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="55*"/>
+        </Grid.ColumnDefinitions>
+        <Button Name="start_bt" Content="Click to Start" HorizontalAlignment="Left" Margin="69.683,10,0,0" VerticalAlignment="Top" Width="85" Grid.Column="3" Height="26" Click="start_bt_Click"/>
+        <TextBlock Name="text_block" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.ColumnSpan="4" Height="57" Width="178"/>
+        <ComboBox x:Name="combo_box" Grid.Column="3" HorizontalAlignment="Left" Margin="69.333,41,0,0" VerticalAlignment="Top" Width="85" SelectionChanged="combo_box_SelectionChanged">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock Text="{Binding Name}"/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+    </Grid>
+</Window>
