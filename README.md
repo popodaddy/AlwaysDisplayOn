@@ -4,7 +4,7 @@
 
 ## How does it work?
 This is an “Windows Desktop App” that periodically performs the following two operations based on the selected time from the ComboBox.
-1. Periodically moves the mouse position to the coordinates at which the “input” button was pressed according to the selected cycle.
+1. Periodically moves the mouse position to the coordinates at which the “Click to Start” button was pressed according to the selected cycle.
 2. Click.
 
 Repeat operations 1 and 2 above at intervals of the time selected in the ComboBox.
